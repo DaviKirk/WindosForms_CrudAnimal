@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\etec\\DS\\Crud_animal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{851776E7-99CB-4E61-933A-C0454AFB606B}|Crud_animal\\Crud_animal.csproj|E:\\etec\\DS\\Crud_animal\\crud_animal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{851776E7-99CB-4E61-933A-C0454AFB606B}|Crud_animal\\Crud_animal.csproj|solutionrelative:crud_animal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851776E7-99CB-4E61-933A-C0454AFB606B}|Crud_animal\\Crud_animal.csproj|e:\\etec\\ds\\crud_animal\\crud_animal\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851776E7-99CB-4E61-933A-C0454AFB606B}|Crud_animal\\Crud_animal.csproj|solutionrelative:crud_animal\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "E:\\etec\\DS\\Crud_animal\\Crud_animal\\Form1.cs",
+              "RelativeDocumentMoniker": "Crud_animal\\Form1.cs",
+              "ToolTip": "E:\\etec\\DS\\Crud_animal\\Crud_animal\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Crud_animal\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:14:47.521Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "animal.cs",
+              "DocumentMoniker": "E:\\etec\\DS\\Crud_animal\\Crud_animal\\animal.cs",
+              "RelativeDocumentMoniker": "Crud_animal\\animal.cs",
+              "ToolTip": "E:\\etec\\DS\\Crud_animal\\Crud_animal\\animal.cs",
+              "RelativeToolTip": "Crud_animal\\animal.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAlwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:19:14.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
